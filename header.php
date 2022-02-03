@@ -12,7 +12,7 @@
 
 <script>
     function test(){
-        alert('yufdy');
+      console.log('okiiiii')
     }
 </script>
     
